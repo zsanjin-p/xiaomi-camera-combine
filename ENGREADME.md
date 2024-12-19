@@ -92,24 +92,24 @@ COMPRESS_VIDEO=10
 ```
 git clone https://github.com/zsanjin-p/xiaomi-camera-combine
 ```
-3. Install python3 or above
-4. Install the pyhton virtual environment
+2. Install python3 or above
+3. Install the pyhton virtual environment
 ```
 #You can replace dateutil_env with other names
 python -m venv dateutil_env
 cd dateutil_env /
 source bin/activate
 ```
-6. Install the third-party library that loads environment variables after activation
+4. Install the third-party library that loads environment variables after activation
 ```
 pip install python-dotenv
 ```
-7. Set the environment variables of the .env file, especially the monitoring source file directory, otherwise it will not run
-8. Run the program. Note that if it is a small garbage, it will run very slowly. Please wait patiently or run it during the NAS idle period
+5. Set the environment variables of the .env file, especially the monitoring source file directory, otherwise it will not run
+6. Run the program. Note that if it is a small garbage, it will run very slowly. Please wait patiently or run it during the NAS idle period
 ```
 python xiaomi-camera-combine.py
 ```
-9. You can run it regularly with the task plan
+7. You can run it regularly with the task plan
 
 ### If there are too many videos and I don't want to merge them from scratch, what should I do?
 
