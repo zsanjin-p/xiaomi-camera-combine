@@ -100,7 +100,7 @@ COMPRESS_VIDEO=10
    ```
    python xiaomi-camera-combine.py
    ```
-7. 可以搭配任务计划定期运行
+7. 可以搭配任务计划定期运行，如用虚拟环境的python解释器来运行： /volume1/user/dateutil_env/python /volume1/user/xiaomicamera/mi-camera-combine.py
 
 
 ### 如果视频太多，我不想从头开始合并，怎么办？
