@@ -1,5 +1,5 @@
 # xiaomi-camera-combine
-xiaomicameracombine合并小米摄像头存在在sd卡、nas的监控视频工具
+xiaomicameracombine合并小米摄像头储存在sd卡、nas的监控视频工具
 
 我用的是小米云台2，设置的是实时同步，一般来说一分钟保存一个视频，然后同步到nas中。出于赛博强迫症，想要把这些视频合并起来，也方便日后使用。
 
