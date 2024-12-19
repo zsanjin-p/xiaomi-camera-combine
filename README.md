@@ -83,24 +83,24 @@ COMPRESS_VIDEO=10
    ```
    git clone https://github.com/zsanjin-p/xiaomi-camera-combine
    ```
-3. 安装python3以上版本
-4. 安装pyhton虚拟环境
+2. 安装python3以上版本
+3. 安装pyhton虚拟环境
    ```
    #可以将dateutil_env替换为其他名字
    python -m venv dateutil_env
    cd dateutil_env /
    source bin/activate
    ```
-6. 激活后安装加载环境变量的第三方库
+4. 激活后安装加载环境变量的第三方库
    ```
    pip install python-dotenv
    ```
-7. 设置好.env文件的环境变量，特别是监控源文件目录要设置好，否则无法运行
-8. 运行程序，注意，如果是小垃圾运行会很慢，请耐心等待，或者在nas闲置期间运行
+5. 设置好.env文件的环境变量，特别是监控源文件目录要设置好，否则无法运行
+6. 运行程序，注意，如果是小垃圾运行会很慢，请耐心等待，或者在nas闲置期间运行
    ```
    python xiaomi-camera-combine.py
    ```
-9. 可以搭配任务计划定期运行
+7. 可以搭配任务计划定期运行
 
 
 ### 如果视频太多，我不想从头开始合并，怎么办？
