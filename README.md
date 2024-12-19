@@ -8,7 +8,10 @@ xiaomicameracombine合并小米摄像头存在在sd卡、nas的监控视频工�
 适配小米云台2，v5.1.6_0397的目录结构，可能随着版本升级会有变化，一般就这样了
 小米其他型号监控摄像头很可能能用，但也不一定。
 其他品牌监控可能能用，但是能输出到nas私有云保存的，据我所知只有小米一家吧
-<img src="https://github.com/user-attachments/assets/2518063a-d85b-4ee9-a2a5-b9188184adae" width="500" height="500">
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/2518063a-d85b-4ee9-a2a5-b9188184adae" width="500" height="500">
+</div>
+
 
 
 
